@@ -3,7 +3,8 @@
   "version": "7.4.0",
   "description": "The most advanced Discord to Roblox ranking bot available, open source and free, without any branding.",
   "engines": {
-  "node": "16.x"
+  "node": "16.x",
+  "npm": "8.x"
   },
   "main": "src/main.ts",
   "scripts": {
