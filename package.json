@@ -41,5 +41,5 @@
 },
 "devDependencies": {
   "@types/node": "^16.0.0"
-  }
+}
 }
